@@ -1,4 +1,4 @@
-## Hey 👋, I'm Arman Arakelyan  
+## Hey👋, I'm Arman Arakelyan  
  A passionate frontend developer
 
 <a href="https://github.com/arman-ar" target="_blank">
